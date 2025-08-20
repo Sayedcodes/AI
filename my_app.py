@@ -60,7 +60,7 @@ if not st.session_state.logged_in:
     login_button = st.button("Login")
 
     if login_button:
-        if username == "Sayed Hamza" and password == "2004":
+        if username == username and password == "2004":
             st.session_state.logged_in = True
             st.success("Login successful!")
             st.rerun()
