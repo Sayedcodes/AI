@@ -46,7 +46,7 @@ images/screenshot.png
 Then use:
 
 ```md
-![App Screenshot](images/screenshot.png)
+![App Screenshot](ai-chatbot-image.png)
 ```
 
 ---
