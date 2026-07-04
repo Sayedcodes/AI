@@ -37,17 +37,8 @@ An AI-powered web application built with **Python** and **Streamlit** that provi
 
 > Add a screenshot of your application here.
 
-Example:
-
-```
-images/screenshot.png
-```
-
-Then use:
-
-```md
 ![App Screenshot](ai-chatbot-image.png)
-```
+
 
 ---
 
